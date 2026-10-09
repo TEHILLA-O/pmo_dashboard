@@ -4,7 +4,7 @@ GitHub: [TEHILLA-O/pmo-dashbard](https://github.com/TEHILLA-O/pmo-dashbard)
 
 See [FAILURES.md](./FAILURES.md) for what can go wrong, what broke, how it was fixed, and results.
 
-## Web dashboard (recommended — Vercel, no Streamlit)
+## Web dashboard (recommended: Vercel, no Streamlit)
 
 The **Next.js** app in **`web/`** is a full static dashboard (home, executive charts, portfolio table, risk, resources, etc.). It loads bundled JSON generated from the same sample data pipeline as the Python utilities.
 
