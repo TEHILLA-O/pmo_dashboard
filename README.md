@@ -1,6 +1,6 @@
 # PMO Portfolio Intelligence Dashboard
 
-GitHub: [TEHILLA-O/pmo-dashbard](https://github.com/TEHILLA-O/pmo-dashbard)
+GitHub: [TEHILLA-O/pmodashboard](https://github.com/TEHILLA-O/pmodashboard)
 
 See [FAILURES.md](./FAILURES.md) for what can go wrong, what broke, how it was fixed, and results.
 
